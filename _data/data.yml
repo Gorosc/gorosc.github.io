@@ -55,13 +55,18 @@ studies:
       
 experiences:
     - experience:
+      role: Solution Architect
+      time: November 2019 -
+      company: Vodafone
+      details: "Design end-to-end solutions including cross-domain integration and APIs. Supervise solution delivery and ensure it meets functional, non-functional requirements and the Group digital/API strategy. Delivery teams consist of third-party vendors and in-house agile. Align with business and technical stakeholders to drive digital transformation through cloud-based technologies. Project management ( Plan Cost Resources )<br>Highlight projects:<br>Vodafone TV without a contract: The company's OTT service offering with a Netflix-like experience. Reached a 10k+ user base within the first months of the service"
+    - experience:
       role: Software Engineer (Dev Lead)
-      time: February 2018 -
+      time: December 2017 - November 2019
       company: European Dynamics
       details: "Team leader of a five person software team with responsibilities including:<br>Technical decisions<br>Defining and delegating tasks\nEnsuring quality of the software produced according to best practices and processes<br>Proactively handle tricky problems and provide solutions<br>Participation in a development process with multiple teams as the go to person for inbound and outbound communication and cooperation<br>Indicative technologies used:<br>Java, J2EE, Spring Framework, Spring Boot, AngularJS, Angular, REST & SOAP webservices, Apache Camel"
     - experience:
       role: Software Engineer
-      time: February 2016 - February 2018
+      time: February 2016 - December 2017
       company: European Dynamics
       details: "Part of a team handling multiple projects and a wide range of technologies in order to design and implement web-applications and to maintain the back-end of complex web based systems, mostly for the European Commision. Maintenance covered corrective and evolutive tasks. Participated in analysis of requirements, definition of technical solutions and implementation. Personal assignment to design and implement the team's CI/CD pipeline which was created using Jenkins and Docker. Some indicative technlogies: Java, Javascript, J2EE, Spring Framework, SOAP & REST webservices, Apache Camel, Docker, Drupal 7/8 (custom implentations utilizing the Drupal API), R (data processing and statistical analysis), SPARQLR queries"
     - experience:
