@@ -55,7 +55,7 @@ studies:
       
 experiences:
     - experience:
-      role: Software Engineer (Team Leader)
+      role: Software Engineer (Dev Lead)
       time: February 2018 -
       company: European Dynamics
       details: "Team leader of a five person software team with responsibilities including:<br>Technical decisions<br>Defining and delegating tasks\nEnsuring quality of the software produced according to best practices and processes<br>Proactively handle tricky problems and provide solutions<br>Participation in a development process with multiple teams as the go to person for inbound and outbound communication and cooperation<br>Indicative technologies used:<br>Java, J2EE, Spring Framework, Spring Boot, AngularJS, Angular, REST & SOAP webservices, Apache Camel"
