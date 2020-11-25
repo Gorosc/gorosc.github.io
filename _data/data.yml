@@ -7,7 +7,7 @@ sidebar:
     
     # Profile information
     name: Christos Gkoros
-    tagline: Software Engineer
+    tagline: Software Engineer / Architect
     #pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -46,7 +46,7 @@ sidebar:
           
 career-profile:
     title: Career Profile
-    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in technical interviews and evaluation of candidates.'
+    text: 'Experienced Software engineer & IT professional with strong skills in requirements engineering, architecture, design and development. Proven record of succeful delivery results in complex projects for major cients & enterprised. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in technical interviews and evaluation of candidates.'
     
 studies:
     - education:
@@ -58,7 +58,7 @@ experiences:
       role: Solution Architect
       time: November 2019 -
       company: Vodafone
-      details: "Design end-to-end solutions including cross-domain integration and APIs. Supervise solution delivery and ensure it meets functional, non-functional requirements and the Group digital/API strategy. Delivery teams consist of third-party vendors and in-house agile. Align with business and technical stakeholders to drive digital transformation through cloud-based technologies. Project management ( Plan Cost Resources )<br>Highlight projects:<br>Vodafone TV without a contract: The company's OTT service offering with a Netflix-like experience. Reached a 10k+ user base within the first months of the service"
+      details: "Design end-to-end solutions including cross-domain integration and APIs. Supervise solution delivery and ensure it meets functional, non-functional requirements and the Group digital/API strategy. Delivery teams consist of third-party vendors and in-house agile. Align with business and technical stakeholders to drive digital transformation through cloud-based technologies. Project management ( Plan Cost Resources )<br>Highlight projects:<br>Vodafone TV without a contract: The company's OTT service offering with a Netflix-like experience. Reached a 10k+ user base within the first months of the service<br>Technologies userd: Kubernetes, Quarkus, AWS, Cloudera, Kafka, ReactJS, Android/IOS native, REST OpenApi, SOAP SOA"
     - experience:
       role: Software Engineer (Dev Lead)
       time: December 2017 - November 2019
@@ -138,8 +138,11 @@ skills:
     title: Technical expertise
     skills:
         - skill:
-          name: "True Multilingual applications with complex Web 2 (AJAX) interfaces"
+          name: "Client application architecture (View - State - Navigation)"
           level: 98%
+        - skill: 
+          name: "Server application architecture (Scalability - Security - Performance)"
+          level: 100%
         - skill:
           name: "Web services design & implementation - REST (OpenApi), SOAP"
           level: 98%
@@ -153,19 +156,19 @@ skills:
           name: "Enterprise Integration Solutions"
           level: 80%
         - skill:
-          name: "Languages: Java, Typescript, Javascript, R"
+          name: "<i>Languages:</i> Java, Typescript, Javascript, R"
           level: 85%
         - skill:
-          name: "Frameworks: Spring (Boot), Apache Camel, Apache CXF, Angular, AngularJS, Vue, Nativescript"
+          name: "<i>Frameworks:</i> Spring (Boot), Apache Camel, Apache CXF, Angular, AngularJS, Vue, Nativescript"
           level: 98%
         - skill:
-          name: Other:J2EE, JQuery
+          name: "<i>Other</i>:J2EE, JQuery"
           level: 98%
         - skill:
-          name: "Middleware: Weblogic, JBoss, Tomcat, Idol, Varnish, Apache HTTP"
+          name: "<i>Middleware</i>: Weblogic, JBoss, Tomcat, Idol, Varnish, Apache HTTP"
           level: 98%
         - skill:
-          name: "DevOps: Docker, Vagrant, Linux, Jenkins, Sonarqube"
+          name: "<i>DevOps</i>: Kubernetes, AWS, Docker, Vagrant, Linux, Jenkins, Sonarqube"
           level: 98%
 
 
