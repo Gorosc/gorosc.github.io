@@ -46,8 +46,7 @@ sidebar:
           
 career-profile:
     title: Career Profile
-    text: 'Experienced Software engineer & IT professional with strong skills in requirements engineering, architecture, design and development. <br> Battle tested Leader promoteing simplicity with clear thinking under pressured situations<br>Proven record of successful delivery results of complex projects for major cients & enterprises. <br>Understanding of business & IT strategies and technological roadmaps.<br>Excellent communication skills with strong negotiation and influence attributes.. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in technical interviews and evaluation of candidates.'
-    
+    text: 'Experienced Software engineer & IT professional with strong skills in requirements engineering, architecture, design, and development. <br> Battle-tested Leader promoting simplicity with clear thinking under pressured situations<br>Proven record of successful delivery results of complex projects for major clients & enterprises. <br>Understanding of business & IT strategies and technological roadmaps.<br>Excellent communication skills with strong negotiation and influence attributes. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in technical interviews and evaluation of candidates.'
 studies:
     - education:
       degree: Computer Engineering and Informatics
@@ -58,8 +57,8 @@ experiences:
       role: Solution Architect
       time: November 2019 -
       company: Vodafone
-      details: "Design end-to-end solutions including cross-domain integration and APIs. Supervise solution delivery and ensure it meets functional, non-functional requirements and the Group digital/API strategy. Delivery teams consist of third-party vendors and in-house agile. Align with business and technical stakeholders to drive digital transformation through cloud-based technologies. Project management ( Plan Cost Resources )<br>Highlight projects:<br>Vodafone TV without a contract: The company's OTT service offering with a Netflix-like experience. Reached a 10k+ user base within the first months of the service<br>Technologies used: Kubernetes, Quarkus, AWS, Cloudera, Kafka, ReactJS, Android/IOS native, REST OpenApi, SOAP SOA"
-    - experience:
+      details: "Design end-to-end solutions, including cross-domain integration and APIs. Supervise solution delivery and ensure it meets functional, non-functional requirements and the Group digital/API strategy. Delivery teams consist of third-party vendors and in-house agile. Align with business and technical stakeholders to drive digital transformation through cloud-based technologies. Project management ( Plan Cost Resources )<br>Highlight projects:<br>Vodafone TV without a contract: The company's OTT service offering with a Netflix-like experience. Reached a 10k+ user base within the first months of the service<br>Technologies used: Kubernetes, Quarkus, AWS, Cloudera, Kafka, ReactJS, Android/IOS native, REST OpenApi, SOAP SOA." - experience:
+    - experience: 
       role: Software Engineer (Dev Lead)
       time: December 2017 - November 2019
       company: European Dynamics
@@ -78,7 +77,7 @@ experiences:
       role: Full Stack Engineer
       time: January 2011 - December 2014
       company: Gamebattles.gr
-      details: "Part of the Hellenic Starcraft 2 League support team and responsible for corrective and evolutive maintenance of the web portal (Joomla), implementing meaningful data processing and statistical analysis on complex metrics for the player base, supporting hardware and software infrastructure on live events."
+      details: "I participated in the creation and development of a company focusing on e-sports as a technology expert. Also, I was involved in all other operational aspects.<br> Responsibilities included: <br>I performed corrective and evolutive maintenance of a high traffic web portal.<br>Implementation of data processing flows and statistical analysis on complex metrics for the player base.<br>Support for hardware and software infrastructure on live events."  
     - experience:
       role: Software Engineer (Trainee)
       time: January 2010 - August 2010
@@ -89,6 +88,10 @@ projects:
     title: Projects
     intro: 
     projects:
+      - project:
+        title: Vodafone Secure Net
+        link: "https://securenet.vodafone.gr"
+        tagline: "I designed the integration between a frontend common for all Vodafone Group markets and the Greek Backend system. I utilized a standardized API of service provisioning as a common language between the two systems to achieve this. The API was served by a gateway microservice responsible for:<br> - Transformation of incoming requests<br> - Routing to microservices of the greek service lifecycle ecosystem<br> - Bridging business logic when there were differences in how each system defined offerings, eligibility, orders.<br> The final product brings security protection and family control directly to both a customer's broadband router and mobile devices. Technologies user: Apigee, AWS, Kubernetes, Quarkus, MongoDB"
       - project:
         title: Vodafone TV
         link: "https://www.vodafone.gr/tv/"
