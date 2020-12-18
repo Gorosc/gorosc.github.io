@@ -32,8 +32,8 @@ sidebar:
         
     interests:
         - interest:
-          item: 12-Factor App
-          link: https://12factor.net/
+          item: Tech leading
+          link: 
         - interest:
           item: Microservices Architecture
           link:
@@ -90,7 +90,7 @@ projects:
     projects:
       - project:
         title: Vodafone Secure Net
-        link: "https://securenet.vodafone.gr"
+        link: "https://securenet.vodafone.com"
         tagline: "I designed the integration between a frontend common for all Vodafone Group markets and the Greek Backend system. I utilized a standardized API of service provisioning as a common language between the two systems to achieve this. The API was served by a gateway microservice responsible for:<br> - Transformation of incoming requests<br> - Routing to microservices of the greek service lifecycle ecosystem<br> - Bridging business logic when there were differences in how each system defined offerings, eligibility, orders.<br> The final product brings security protection and family control directly to both a customer's broadband router and mobile devices. Technologies user: Apigee, AWS, Kubernetes, Quarkus, MongoDB"
       - project:
         title: Vodafone TV
