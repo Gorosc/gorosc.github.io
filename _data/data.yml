@@ -88,9 +88,13 @@ projects:
     title: Projects
     intro: 
     projects:
+      - project: 
+        title: Vodafone Business Headless Marketplace
+        link: "https://marketplace.vodafone.co.uk/en-GB/home"
+        tagline: "I designed the integration between frontend channels and Vodafone's Business marketplace as part of an initiative to utilize the existing B2B marketplace in a headless manner through REST APIs. The marketplace offers partner products and services (Microsoft, AWS) to enterprise customers. The solution also included a custom UI build to expose the capabilities to the user. Technologies user: ReactJS, AWS, Kubernetes, Quarkus, MongoDB, SOAP, ESB"
       - project:
         title: Vodafone Secure Net
-        link: "https://securenet.vodafone.com"
+        link: "https://securenet.vodafone.gr"
         tagline: "I designed the integration between a frontend common for all Vodafone Group markets and the Greek Backend system. I utilized a standardized API of service provisioning as a common language between the two systems to achieve this. The API was served by a gateway microservice responsible for:<br> - Transformation of incoming requests<br> - Routing to microservices of the greek service lifecycle ecosystem<br> - Bridging business logic when there were differences in how each system defined offerings, eligibility, orders.<br> The final product brings security protection and family control directly to both a customer's broadband router and mobile devices. Technologies user: Apigee, AWS, Kubernetes, Quarkus, MongoDB"
       - project:
         title: Vodafone TV
